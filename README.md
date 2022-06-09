@@ -8,7 +8,7 @@ This is the main repository containing links and further information to get star
 
 - This project has received funding from the European Union’s Horizon 2020 research and innovation  programme under grant agreement No 101019206.
 
-- [Datenanfragen.de e. V.](https://www.datenanfragen.de) is a non profit organisation founded by one of our authors (Benjamin Altpeter), who will use technology developed during this project to fight for our privacy rights.
+- [Datenanfragen.de e. V.](https://www.datenanfragen.de) is a non profit organisation founded by one of our authors (Benjamin Altpeter), they will further use technology developed during this project to fight for our privacy rights.
 
 
 # BibTex
