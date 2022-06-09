@@ -1,6 +1,6 @@
 # Main
 
-This is the main repository containing links and further information to get startet.
+This is the main repository containing links and further information to get started.
 
 # Acknowledgements
 
