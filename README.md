@@ -13,5 +13,10 @@ This is the main repository containing links and further information to get star
 
 # BibTex
 ``` 
-To Be Done
+@inproceedings{PETS:Koch:2022,
+ author = {Simon Koch and Malte Wessel and Benjamin Altpeter and Madita Olvermann and Martin Johns},
+ title  = {Keeping Privacy Labels Honest},
+ booktitle = {Proceedings on Privacy Enhancing Technologies Symposium (PoPETS 2022)},
+ year = {2022}
+}
 ```
