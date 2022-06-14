@@ -8,6 +8,8 @@ This is the main repository containing links and further information to get star
 
 - This project has received funding from the European Union’s Horizon 2020 research and innovation  programme under grant agreement No 101019206.
 
+- This project has received funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy - EXC 2092 CASA - 390781972. 
+
 - [Datenanfragen.de e. V.](https://www.datarequests.org) is a non profit organisation co-founded by one of our authors (Benjamin Altpeter), they will further use the technology developed during this project to fight for our privacy rights.
 
 
