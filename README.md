@@ -1,6 +1,31 @@
 # Main
 
-This is the main repository containing links and further information to get started.
+This repository is the main repository for our artifact release for `Keeping Privacy Labels Honest` a publication in the Proceedings on Privacy Enhancing Technologies Symposium 2022`.
+In this repository you will find our bibtex, our acknowledgements, and further guidance on the structure of this github org containing the relevant artifacts. 
+If you have any questions, feel free to open a ticket or simply email us.
+
+Please be aware that most of the work was done in 2021 and leveraged API endpoints might have gone dead by now or slightly changed in how to access them. 
+
+## Contents
+
+This artifact release contains our raw data set of all Privacy Labels we evaluated as well as the source code for actually downloading privacy labels, analyzing privacy labels, automating traffic collection on an iPhone, as well as analyzing the collected traffic.
+
+### Privacy Labels
+
+[This](https://github.com/Keeping-Privacy-Labels-Honest/privacyLabels) is our raw data set containing all analyzed privacy labels.
+
+### Privacy Label Downloader
+
+[This](https://github.com/Keeping-Privacy-Labels-Honest/IndiaPaleAle) is the tool to use the 3u API to get a list of app ids that can then be used to download privacy labels from the Apple store.
+
+### iPhone automation
+
+[This](https://github.com/Keeping-Privacy-Labels-Honest/ios-app-analyzer) is our script for automating the install, run, and stop of different apps on the iPhone. You require an jailbroken iPhone as well as a set of IPA files linked to the account on that iPhone.
+
+### Analyzing Privacy Labels and Traffic 
+
+[This](https://github.com/Keeping-Privacy-Labels-Honest/ledeco) is our main tool. It will analyze a given set of privacy label and generate pretty graphs, as well as also analyze the traffic collected when running apps on the iPhone.
+
 
 # Acknowledgements
 
