@@ -24,7 +24,7 @@ This artifact release contains our raw data set of all Privacy Labels we evaluat
 
 ### Analyzing Privacy Labels and Traffic 
 
-[This](https://github.com/Keeping-Privacy-Labels-Honest/ledeco) is our main tool. It will analyze a given set of privacy label and generate pretty graphs, as well as also analyze the traffic collected when running apps on the iPhone.
+[This](https://github.com/Keeping-Privacy-Labels-Honest/ledeco) is our main tool. It will analyze a given set of privacy label and generate pretty graphs, as well as analyze the traffic collected when running apps on the iPhone.
 
 
 # Acknowledgements
