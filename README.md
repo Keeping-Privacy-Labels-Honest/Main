@@ -1,6 +1,6 @@
 # Main
 
-This repository is the main repository for our artifact release for `Keeping Privacy Labels Honest` a publication in the *Proceedings on Privacy Enhancing Technologies Symposium 2022*.
+This repository is the main repository for our artifact release for *Keeping Privacy Labels Honest* a publication in the *Proceedings on Privacy Enhancing Technologies Symposium 2022*.
 In this repository you will find our bibtex, our acknowledgements, and further guidance on the structure of this github org containing the relevant artifacts. 
 If you have any questions, feel free to open a ticket or simply email us.
 
