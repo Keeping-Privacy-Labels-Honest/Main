@@ -10,6 +10,10 @@ Please be aware that most of the work was done in 2021 and leveraged API endpoin
 
 This artifact release contains our raw data set of all Privacy Labels we evaluated as well as the source code for actually downloading privacy labels, analyzing privacy labels, automating traffic collection on an iPhone, as well as analyzing the collected traffic.
 
+### Screenshots
+
+[This]() is our raw data set containing our screenshots made of the analyzed apps.
+
 ### Privacy Labels
 
 [This](https://github.com/Keeping-Privacy-Labels-Honest/privacyLabels) is our raw data set containing all analyzed privacy labels.
