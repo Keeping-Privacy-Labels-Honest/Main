@@ -12,7 +12,7 @@ This artifact release contains our raw data set of all Privacy Labels we evaluat
 
 ### Screenshots
 
-[This]() is our raw data set containing our screenshots made of the analyzed apps.
+[This](https://github.com/Keeping-Privacy-Labels-Honest/screenshots) is our raw data set containing our screenshots made of the analyzed apps.
 
 ### Privacy Labels
 
